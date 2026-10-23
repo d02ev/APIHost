@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/APIHost.Host/APIHost.Host.csproj" />
+    <Project Path="src/APIHost.SharedKernel/APIHost.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/">
+    <Project Path="src/Modules/APIHost.Modules.Resume/APIHost.Modules.Resume.csproj" />
+  </Folder>
+</Solution>
